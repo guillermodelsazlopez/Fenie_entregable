@@ -20,9 +20,9 @@ Feníe Challenge | GEN-AI AL RESCATE!
 
 # Instalar dependencias básicas
 
-python -m venv .venv
+<pre>python -m venv .venv
 .\.venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt</pre>
 
 # Levantar Qdrant
 <pre>docker compose up -d</pre>
